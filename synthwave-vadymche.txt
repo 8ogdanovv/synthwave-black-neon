@@ -1,0 +1,34 @@
+FIX SUBTLE BACKGROUND PLOBLEM:
+______________________________
+
+|1| find file called "neondreams.js" that is placing at this path (or something aroun this):
+
+~\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\electron-sandbox\workbench\neondreams.js
+
+|2| replace it by file that is attached in folder ".vscode--extensions--robbowen.synthwave--vscode-0.1.15"
+
+OR fix by your own hands -> near 98th line of code that affecting your GUTTER color
+
+/* Add the subtle gradient to the editor background */
+.monaco-editor {
+  background-color: transparent !important;
+  background-image: linear-gradient(to bottom, #000000 75%, #000000);
+  background-size: auto 100vh;
+  background-position: top;
+  background-repeat: no-repeat;
+}
+_______________________________
+
+ALSO YOU CAN USE MY TOTAL BLACK NEON GLOWED THEME .json
+
+for porpose of that replace file(s) at path:
+
+~\.vscode\extensions\robbowen.synthwave-vscode-0.1.15\
+
+with files attached in folder "AppData--Local--Programs--Microsoft VS Code--resources--app--out--vscode--electron-sandbox--workbench"
+
+_________________________________________________________________________________________________
+i want to stay thankful for post that get by far closer to real working solution of this problem:
+https://github.com/robb0wen/synthwave-vscode/issues/199
+
+

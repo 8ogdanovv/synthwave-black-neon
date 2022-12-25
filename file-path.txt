@@ -1,0 +1,13 @@
+SUBTLE BACKGROUND:
+
+C:\Users\vadym\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\electron-sandbox\workbench\neondreams.js
+C:\Users\USERNAME\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\electron-sandbox\workbench\neondreams.js
+
+~\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\electron-sandbox\workbench\neondreams.js
+
+THEME ITSELF:
+
+C:\Users\vadym\.vscode\extensions\robbowen.synthwave-vscode-0.1.15\
+C:\Users\USERNAME\.vscode\extensions\robbowen.synthwave-vscode-0.1.15\
+
+~\.vscode\extensions\robbowen.synthwave-vscode-0.1.15\
