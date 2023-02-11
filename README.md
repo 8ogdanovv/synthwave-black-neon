@@ -1,2 +1,2 @@
 # synthwave-black-neon
-BUG-FIX &amp; Black based remix on theme by robbOwens synthwave84 theme for MS Visual Studio Code
+Black based remix on theme for MS Visual Studio Code synthwave84 by robbOwens 
