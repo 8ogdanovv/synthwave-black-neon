@@ -1,7 +1,8 @@
 # synthwave-black-neon
 Black based remix on [theme for MS Visual Studio Code synthwave84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) by [robbOwens](https://github.com/robb0wen)
 
-![preview](https://github.com/vadym4che/synthwave-black-neon/blob/main/fixed.png)
+Here is what I've got with this:
+![preview](https://github.com/vadym4che/synthwave-black-neon/blob/main/screenshot.png)
 
 # FIX SUBTLE BACKGROUND PROBLEM:
 
@@ -24,6 +25,9 @@ Black based remix on [theme for MS Visual Studio Code synthwave84](https://marke
   background-repeat: no-repeat;
 }
 ```
+
+Here my sreen view is:
+![preview](https://github.com/vadym4che/synthwave-black-neon/blob/main/fixed.png)
 
 ALSO, YOU CAN USE MY TOTAL BLACK NEON GLOWED THEME .json file for this purpose. Replace the file(s) at the following path:
 
